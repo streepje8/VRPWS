@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Element865d63ba-f701-43ab-adf9-24c6ffc33e80
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueElement
+  isCondition: 0
+  isDelay: 0
+  Time: 0
+  conditional: {fileID: 0}
+  VoiceLine: {fileID: 8300000, guid: 6bf025cec7e116b4284b764b4bcaa32f, type: 3}
+  VoiceLineFalse: {fileID: 0}
